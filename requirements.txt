@@ -1,0 +1,5 @@
+wave
+numpy
+scipy
+matplotlib
+pytest-warnings
